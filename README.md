@@ -24,6 +24,12 @@ Lista de ejercicios realizados en JAVA y JS
 - 20. Keep Hydrated!
 - 21. Convert Number To Reversed Array Of Digits
 - 22. Returning Strings
+- 23. Is n Divisible By x And y?
+- 24. Lost Without a Map
+- 25. A Needle in the Haystack
+- 26. Hello World
+- 27. Opposites Attract
+- 28. Beginner Series #1 School Paperwork
 
 ### 7 Kyu
 - 1. Disemvowel Trolls
@@ -34,14 +40,14 @@ Lista de ejercicios realizados en JAVA y JS
 - 6. List Filtering
 - 7. Get the Middle Character
 - 8. Square Of Square
-- 9. 
-- 10.  
+- 9. Mumbling
+- 10. 
 
 ### 6 Kyu
 - 1. Multiples
 - 2. Stop ninniP
 - 3. Who likes it?
-- 4. 
+- 4. Find The Odd Int
 - 5. 
 - 6. 
 - 7. 
@@ -51,7 +57,7 @@ Lista de ejercicios realizados en JAVA y JS
 
 ### 5 Kyu
 - 1. Simple Pig Latin
-- 2.
+- 2. Human Readable Time
 - 3. 
 - 4. 
 - 5. 
@@ -62,7 +68,7 @@ Lista de ejercicios realizados en JAVA y JS
 - 10. 
 
 ### 4 Kyu
-- 1. 
+- 1. Snail
 - 2.
 - 3. 
 - 4. 
@@ -108,4 +114,3 @@ Lista de ejercicios realizados en JAVA y JS
 - 8. 
 - 9. 
 - 10. 
-
