@@ -14,7 +14,7 @@ public class FindOddInt {
     }
 
     public static int findIt(int[] a) {
-        List<Integer> list = Arrays.stream(arr).boxed().collect(Collectors.toList());
+        List<Integer> list = Arrays.stream(a).boxed().collect(Collectors.toList());
 
         return list.stream()
                 .collect(Collectors.groupingBy(

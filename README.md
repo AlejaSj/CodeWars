@@ -30,6 +30,12 @@ Lista de ejercicios realizados en JAVA y JS
 - 26. Hello World
 - 27. Opposites Attract
 - 28. Beginner Series #1 School Paperwork
+- 29. Playing Banjo
+- 30. Convert a Boolean to a String
+- 31. Sum Arrays
+- 32. How good are you really?
+- 33. Calculate average
+- 34. Beginner Series #2 Clock
 
 ### 7 Kyu
 - 1. Disemvowel Trolls
@@ -41,14 +47,16 @@ Lista de ejercicios realizados en JAVA y JS
 - 7. Get the Middle Character
 - 8. Square Of Square
 - 9. Mumbling
-- 10. 
+- 10. Isograms 
+- 11. Exes and Ohs
+- 12. Jaden Casing Strings
 
 ### 6 Kyu
 - 1. Multiples
 - 2. Stop ninniP
 - 3. Who likes it?
 - 4. Find The Odd Int
-- 5. 
+- 5. Array.diff
 - 6. 
 - 7. 
 - 8. 
@@ -58,7 +66,7 @@ Lista de ejercicios realizados en JAVA y JS
 ### 5 Kyu
 - 1. Simple Pig Latin
 - 2. Human Readable Time
-- 3. 
+- 3. RGB To Hex Conversion
 - 4. 
 - 5. 
 - 6. 
