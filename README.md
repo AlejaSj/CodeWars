@@ -1,5 +1,5 @@
 # CodeWars
-Lista de ejercicios realizados en JAVA y JS
+Lista de ejercicios realizados en JAVA 
 
 ### 8 Kyu
 - 1. Even or Odd
@@ -36,6 +36,17 @@ Lista de ejercicios realizados en JAVA y JS
 - 32. How good are you really?
 - 33. Calculate average
 - 34. Beginner Series #2 Clock
+- 35. You Can't Code Under Pressure #1
+- 36. MakeUpperCase
+- 37. Simple multiplication
+- 38. Invert Values
+- 39. Sentences Smash
+- 40. Beginner - Reduce but Grow
+- 41. Count of positives / sum of negatives
+- 42. You only need one - Beginner
+- 43. Fake Binary
+- 44. Calculate BMI
+
 
 ### 7 Kyu
 - 1. Disemvowel Trolls
@@ -57,7 +68,7 @@ Lista de ejercicios realizados en JAVA y JS
 - 3. Who likes it?
 - 4. Find The Odd Int
 - 5. Array.diff
-- 6. 
+- 6. Create Phone Number
 - 7. 
 - 8. 
 - 9. 
@@ -88,7 +99,7 @@ Lista de ejercicios realizados en JAVA y JS
 - 10. 
 
 ### 3 Kyu
-- 1. 
+- 1. Battleship field validator
 - 2.
 - 3. 
 - 4. 
