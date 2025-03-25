@@ -78,7 +78,7 @@ Lista de ejercicios realizados en JAVA
 - 1. Simple Pig Latin
 - 2. Human Readable Time
 - 3. RGB To Hex Conversion
-- 4. 
+- 4. Directions Reduction
 - 5. 
 - 6. 
 - 7. 
