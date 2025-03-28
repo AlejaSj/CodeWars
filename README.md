@@ -46,7 +46,17 @@ Lista de ejercicios realizados en JAVA
 - 42. You only need one - Beginner
 - 43. Fake Binary
 - 44. Calculate BMI
-
+- 45. DNA to RNA Conversion
+- 46. Is he gonna survive?
+- 47. Jenny's Secret Message
+- 48. Reversed Words
+- 49. Find Maximum and Minimum Values of a List
+- 50. Convert A String To An Array
+- 51. If You Can't Sleep, Just Count Sheep!!
+- 52. Rock Paper Scissors!
+- 53. Will you Make It?
+- 54. Count by X
+- 55. Reversed sequence
 
 ### 7 Kyu
 - 1. Disemvowel Trolls
@@ -69,7 +79,7 @@ Lista de ejercicios realizados en JAVA
 - 4. Find The Odd Int
 - 5. Array.diff
 - 6. Create Phone Number
-- 7. 
+- 7. Sum of Digits / Digital Root
 - 8. 
 - 9. 
 - 10. 
